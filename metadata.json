@@ -1,0 +1,6 @@
+{
+  "name": "Merchant Navy AI",
+  "description": "Your AI-Powered Gateway to a Merchant Navy Career - Premium Ed-Tech Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
